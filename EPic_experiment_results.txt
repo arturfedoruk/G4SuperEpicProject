@@ -1,0 +1,11 @@
+
++++++++++++++++++++++++++++
+!!! This data is gibberish unless performing experiment.mac !!!
+Experiment results, using QGSP_BERT with 100k events per run.
+ energies = {1, 5, 10, 20, 30, 40, 60, 80, 100, 130, 160, 200, 250, 300, 400, 500, 600, 700, 800, 900, 1000}; (*MeV*)
+ NbOfNeutrons = {Around[0,0], Around[0,0], Around[0,0], Around[0.00419,0.00021116], Around[0.01373,0.000418649], Around[0.02191,0.000538625], Around[0.0390966,0.000771865], Around[0.0534749,0.000913252], Around[0.0687576,0.00104187], Around[0.0931065,0.00123096], Around[0.113663,0.00133698], Around[0.138203,0.00147519], Around[0.172006,0.0016357], Around[0.205119,0.00178519], Around[0.271099,0.00204833], Around[0.340685,0.0022764], Around[0.401409,0.00244442], Around[0.457938,0.00259656], Around[0.530084,0.00277888], Around[0.584798,0.00289441], Around[0.644229,0.00300957], 
++++++++++++++++++++++++++++
+!!! This data is gibberish unless performing experiment.mac !!!
+Experiment results, using QGSP_BERT_HP with 100k events per run.
+ energies = {1, 5, 10, 20, 30, 40, 60, 80, 100, 130, 160, 200, 250, 300, 400, 500, 600, 700, 800, 900, 1000}; (*MeV*)
+ NbOfNeutrons = {Around[0,0], Around[0,0], Around[0,0], Around[0.00427,0.000211144], Around[0.01348,0.00041573], Around[0.02238,0.000549751], Around[0.0394059,0.000779513], Around[0.0541411,0.000930706], Around[0.0704007,0.00106751], Around[0.0905035,0.00119796], Around[0.112325,0.00133902], Around[0.138759,0.00148316], Around[0.172355,0.00164668], Around[0.208491,0.00180238], Around[0.276708,0.00207325], Around[0.34039,0.00227841], Around[0.405776,0.00247129], Around[0.46298,0.00261904], Around[0.528563,0.00276874], Around[0.589357,0.00290005], Around[0.644549,0.00301267], 

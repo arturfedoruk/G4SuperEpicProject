@@ -1,0 +1,71 @@
+
+/run/initialize
+/globalField/setValue 0 0 0 tesla
+/gun/particle e-
+/run/printProgress 15000
+
+# {1, 5, 10, 20, 30, 40, 60, 80, 100, 130, 160, 200, 250, 300, 400, 500, 600, 700, 800, 900, 1000}
+
+/gun/energy 1 MeV
+/run/beamOn 100000
+
+/gun/energy 5 MeV
+/run/beamOn 100000
+
+/gun/energy 10 MeV
+/run/beamOn 100000
+
+/gun/energy 20 MeV
+/run/beamOn 100000
+
+/gun/energy 30 MeV
+/run/beamOn 100000
+
+/gun/energy 40 MeV
+/run/beamOn 100000
+
+/gun/energy 60 MeV
+/run/beamOn 100000
+
+/gun/energy 80 MeV
+/run/beamOn 100000
+
+/gun/energy 100 MeV
+/run/beamOn 100000
+
+/gun/energy 130 MeV
+/run/beamOn 100000
+
+/gun/energy 160 MeV
+/run/beamOn 100000
+
+/gun/energy 200 MeV
+/run/beamOn 100000
+
+/gun/energy 250 MeV
+/run/beamOn 100000
+
+/gun/energy 300 MeV
+/run/beamOn 100000
+
+/gun/energy 400 MeV
+/run/beamOn 100000
+
+/gun/energy 500 MeV
+/run/beamOn 100000
+
+/gun/energy 600 MeV
+/run/beamOn 100000
+
+/gun/energy 700 MeV
+/run/beamOn 100000
+
+/gun/energy 800 MeV
+/run/beamOn 100000
+
+/gun/energy 900 MeV
+/run/beamOn 100000
+
+/gun/energy 1000 MeV
+/run/beamOn 100000
+
